@@ -31,6 +31,7 @@
 - Power
   - 사용전력, 안정성, Redundent.
 - Mainboard
+- NAS, SAN?
 
 ## IaaS
 1. ansible (https://blog.naver.com/alice_k106/221333208746)
